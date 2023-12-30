@@ -4,9 +4,21 @@ This is Aditya Surana, Im currently a 4th Year UnderGraduate student at IIT BHU(
 Deep Learning,Natural Language Processing, as well as Flutter Development and Web Development.
 
 
-**theadityasurana/theadityasurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p align="center"><a href="https://twitter.com/theadityasurana"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/adityasurana7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/adityasurana7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
+
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/Terabyte17/theadityasurana?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/theadityasurana?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/theadityasurana?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/theadityasurana?style=social"></a>
 </p>
 
 - 🔭 I’m currently working on Flutter Development
