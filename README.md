@@ -1,7 +1,7 @@
-<p align="center">
- <img  width="800" height="400" src="https://github.com/theadityasurana/theadityasurana/blob/master/social/yashs.gif">
-</p>
- Hi there 👋  ,
+
+Hi there 👋 ,
+
+
 This is Aditya Surana, Im currently a 4th Year UnderGraduate student at IIT BHU(Varanasi). I'm passionate about areas of Machine Learning, 
 Deep Learning,Natural Language Processing, as well as Flutter Development and Web Development.
 
