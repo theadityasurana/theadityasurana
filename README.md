@@ -6,7 +6,8 @@ Deep Learning,Natural Language Processing, as well as Flutter Development and We
 
 **theadityasurana/theadityasurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"><a href="https://twitter.com/theadityasurana"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/adityasurana7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/adityasurana7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
 - 🔭 I’m currently working on Flutter Development
 - 🌱 I’m currently learning about FullStack Development and Machine Learning, I am particularly interested in Flutter development,Deep Learning, and Natural Language Processing!
