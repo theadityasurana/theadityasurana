@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=theadityasurana)
 
 
 **theadityasurana/theadityasurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anything and everything 
 - 📫 How to reach me: mail me at sk8aditya@gmail.com
 
-  ![](https://komarev.com/ghpvc/?username=theadityasurana)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theadityasurana)](https://git.io/streak-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
