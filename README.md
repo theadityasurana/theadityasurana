@@ -1,4 +1,6 @@
-
+<p align="center">
+ <img  width="800" height="400" src="https://github.com/theadityasurana/theadityasurana/blob/master/social/yashs.gif">
+</p>
 ### Hi there 👋  ,
 This is Aditya Surana, Im currently a 4th Year UnderGraduate student at IIT BHU(Varanasi). I'm passionate about areas of Machine Learning, 
 Deep Learning,Natural Language Processing, as well as Flutter Development and Web Development.
@@ -27,7 +29,9 @@ Deep Learning,Natural Language Processing, as well as Flutter Development and We
 - 🤔 I’m looking for help with anything and everything 
 - 📫 How to reach me: mail me at sk8aditya@gmail.com
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/MachineLearning-brown"> <img src="https://img.shields.io/badge/Deep Learning-green"> <img src="https://img.shields.io/badge/Flutter-red"> <img src="https://img.shields.io/badge/Natural Language Processing-magenta"> <img src="https://img.shields.io/badge/Web Development-yellow"> 
+</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theadityasurana)](https://git.io/streak-stats)
 
 
