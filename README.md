@@ -32,6 +32,7 @@ Deep Learning,Natural Language Processing, as well as Flutter Development and We
 <p align="center">
 <img src="https://img.shields.io/badge/MachineLearning-brown"> <img src="https://img.shields.io/badge/Deep Learning-green"> <img src="https://img.shields.io/badge/Flutter-red"> <img src="https://img.shields.io/badge/Natural Language Processing-magenta"> <img src="https://img.shields.io/badge/Web Development-yellow"> 
 </p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theadityasurana)](https://git.io/streak-stats)
 
 
