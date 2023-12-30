@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theadityasurana)](https://git.io/streak-stats)
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=theadityasurana)](https://github.com/theadityasurana/github-readme-stats)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
