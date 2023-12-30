@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=theadityasurana)](https://github.com/theadityasurana/github-readme-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Tools and Languages
+<img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" /> <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" /> <img src="https://www.gymlibrary.dev/_static/img/gym_logo_black.svg" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/dart/dart.png" width="40" height="40" /> </code><hr/>
